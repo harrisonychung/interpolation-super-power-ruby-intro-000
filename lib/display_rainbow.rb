@@ -4,3 +4,7 @@ def display_rainbow(color)
     puts "the first color in this format is #{colors[red]}"
     puts "the second color in this format is #{color[orange]}"
     puts "the third color in this format is #{color[yellow]}"
+    puts "the fourth color in this format is #{color[green]}"
+    puts "the fifth color in this format is #{color[blue]}"
+    puts "the sixth color in this format is #{color[indigo]}"
+    puts "the third color in this format is #{color[violet]}"
